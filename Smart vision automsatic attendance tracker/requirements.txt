@@ -1,0 +1,10 @@
+opencv-python
+face-recognition
+
+
+pandas
+numpy
+pillow
+xlrd
+
+
