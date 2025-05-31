@@ -69,19 +69,38 @@ pip install -r requirements.txt
 
 ---
 
-📸 Screenshots
+## 📸 Screenshots
 
-Ater run the Program:
-1.Admin Login: ![image](https://github.com/user-attachments/assets/21d91aee-3115-454d-87f8-427934cc3df2)
-2.Attendance dashboard: ![image](https://github.com/user-attachments/assets/4c425bda-8af0-4a13-8c3f-f1f10d7369aa)
-3.Add student: ![image](https://github.com/user-attachments/assets/63da33b9-a4b8-460d-8e82-cde571bf924f)
-4.Capturing student face to record: ![image](https://github.com/user-attachments/assets/bcafa892-20ea-43b2-a45f-72be8e3bada1)
-5.Student data stored in DB:![image](https://github.com/user-attachments/assets/f6cdd1da-d368-481c-b4bb-8bbf1b8bdf61)
-6.Mark Attendance: ![image](https://github.com/user-attachments/assets/5413f70f-9ab8-4a81-a4fb-4eacbc816004)
-7.Face detection and recognizition: ![image](https://github.com/user-attachments/assets/6440fe94-b688-48aa-9453-b0e4a776e081)
-8.Attendance recored in DB: ![image](https://github.com/user-attachments/assets/43a5139c-421e-47e6-b2da-27578317430d)
-9.View Attendance: ![image](https://github.com/user-attachments/assets/8c9b3d08-20fd-4421-a438-1f04cd58341f)
-10.Attendance export to CSV: ![image](https://github.com/user-attachments/assets/9bdd7144-b6da-4ffd-8d6d-8bad8fbdda8e)
+### 1. Admin Login
+![Admin Login](https://github.com/user-attachments/assets/21d91aee-3115-454d-87f8-427934cc3df2)
+
+### 2. Attendance Dashboard
+![Attendance Dashboard](https://github.com/user-attachments/assets/4c425bda-8af0-4a13-8c3f-f1f10d7369aa)
+
+### 3. Add Student
+![Add Student](https://github.com/user-attachments/assets/63da33b9-a4b8-460d-8e82-cde571bf924f)
+
+### 4. Capturing Student Face
+![Capturing Face](https://github.com/user-attachments/assets/bcafa892-20ea-43b2-a45f-72be8e3bada1)
+
+### 5. Student Data Stored in DB
+![Student DB](https://github.com/user-attachments/assets/f6cdd1da-d368-481c-b4bb-8bbf1b8bdf61)
+
+### 6. Mark Attendance
+![Mark Attendance](https://github.com/user-attachments/assets/5413f70f-9ab8-4a81-a4fb-4eacbc816004)
+
+### 7. Face Recognition
+![Face Recognition](https://github.com/user-attachments/assets/6440fe94-b688-48aa-9453-b0e4a776e081)
+
+### 8. Attendance Recorded in DB
+![Attendance DB](https://github.com/user-attachments/assets/43a5139c-421e-47e6-b2da-27578317430d)
+
+### 9. View Attendance
+![View Attendance](https://github.com/user-attachments/assets/8c9b3d08-20fd-4421-a438-1f04cd58341f)
+
+### 10. Export to CSV
+![Export CSV](https://github.com/user-attachments/assets/9bdd7144-b6da-4ffd-8d6d-8bad8fbdda8e)
+
 
 
 
